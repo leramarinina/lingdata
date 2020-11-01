@@ -121,7 +121,7 @@
 118	блин	блин	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@avg1995f#avg1995f#32.635#32.896
 119	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@avg1995f#avg1995f#32.896#33.157
 120	так	так	ADV	_	Degree=Pos	_	_	_	words@avg1995f#avg1995f#33.157#33.418
-121	здорово	здорово	ADV	_	Degree=Pos	_	_	_	words@avg1995f#avg1995f#33.418#33.679
+121	здорово	здоровый	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@avg1995f#avg1995f#33.418#33.679
 122	/	/	PUNCT	_	_	_	_	_	words@avg1995f#avg1995f#33.679#33.94
 123	/	/	PUNCT	_	_	_	_	_	words@avg1995f#avg1995f#33.94#34.27
 124	в	в	ADP	_	_	_	_	_	words@avg1995f#avg1995f#34.278#34.524
